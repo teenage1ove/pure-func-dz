@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1f14p4uqhyygj0h3?svg=true)](https://ci.appveyor.com/project/teenage1ove/pure-func-dz)
